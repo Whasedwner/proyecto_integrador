@@ -1,0 +1,42 @@
+1)¿Al concluir una oración se debe colocar un?
+
+A punto
+B coma
+C punto y coma
+D comillas
+###
+
+2)"¿Le puedo dar aspirinas a mi gallina?
+Tiene dos años y creo que se ha hecho daño en una pata. No puedo ir al veterinario
+hasta el lunes y no contestan el telefono. Mi gallina parece tener mucho dolor"
+
+¿Que quiere saber esta persona?
+A Si puede darle aspirina a una gallina herida.
+B Con que frecuencia puede dar aspirina a una gallina herida.
+C Cómo contactar a un veterinario para preguntar sobre una gallina.
+D Si se puede determinar el nivel de dolor de una gallina herida. 
+###
+
+3) De las siguientes palabras, ¿Cuál es esdrújula “rápidamente” ,”salmón”,
+“café”,”atlético” ?
+A rápidamente 
+B cafe 
+C salmón 
+D café y atlético
+###
+
+4) A la palabra “Rectangulo” le hace falta un acento para que esté escrito
+correctamente ¿En qué letra va el acento?
+A En la o
+B En la a 
+C En la e 
+D En la u
+###
+
+5) ¿Cuál es la categoría de palabras en la que el acento se encuentra en la última
+sílaba?
+A Grave 
+B Aguda 
+C esdrújula 
+D Sobreesdrújula
+###

@@ -1,0 +1,41 @@
+6) ¿Que fruta golpeo la cabeza de Newton? 
+A Naranja 
+B Pera 
+C Manzana 
+D Guayaba
+###
+
+7) ¿Cuantos reinos existen?
+A 4
+B 7
+C 10 
+D 5 
+###
+
+8) ¿Cuales son los estados de la materia?
+A Solido,liquido y gaseoso
+B Liquido,congelado,esponjoso
+C gaseoso,oloroso, frio
+D Ninguna de las anteriores
+###
+
+9) ¿Nombre que recibe el cambio de estado Solido a estado Gaseoso?
+A Sublimación
+B Decantación
+C Evaporación
+D Condensación
+###
+
+10) Muchas centrales eléctricas queman combustibles derivados del carbono y emiten dioxido de carbono (CO2). El CO2 emitido a la atmosfera tiene un impacto negativo en el clima del planeta.
+Los ingenieros han usado diferentes estrategias para reducit la cantidad de CO2 que se emite a la atmosfera. 
+Una de las estrategias consiste en quemar biocombustibles en lugr de combustibles fósiles. Mientras que los combustibles fósiles proceden organismos que mueron hace mucho tiempo, los
+biocombustibles proceden de plantas que han vivido y han muerto recientemente. 
+Otra estrategia consiste en atrapar una parte del CO2 emitido por las centrales eléctricas y almacenarlo a cierta profundidad bajo tierra o en el mar. Esta estrategia se llama captura y almacenamiento de carbono. 
+
+El uso de biocombustibles no tiene el mismo efecto en los niveles atmosféricos de CO2 que el de combustibles fósiles. ¿Por que? ¿Cual de los siguientes encunciados lo explica mejor?
+
+A Los biocombustibles no emiten CO2 cuando se queman
+B Las plantas utilizadas para los biocombustibles absorben el CO2 de la atmosfera a medida que crecen. 
+C El CO2 emitido por las centrales eléctricas que utilizan biocombustibles tiene propiedades quimicas diferentes del CO2 emitido por las centrales que emplean combustibles fósiles
+D Cuando se queman, los biocombustibles toman CO2 de la atmósfera. 
+###

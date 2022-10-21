@@ -1,0 +1,39 @@
+1) ¿Como se llama el triangulo cuyos sus lados son de la misma medida?
+A Triangulo 
+B Triangulo Escaleno
+C Triangulo Equilatero 
+D Triangulo Isósceles
+###
+
+2) Al adquirir un vehículo cuyo precio es de $8800, nos hacen un descuento
+del 7.5%.
+¿Cuánto hay que pagar por el vehículo?
+A $8140
+B $8000 
+C $8235 
+D $8410
+###
+
+3)La subida al Monte Fuji solo está abierta al público desde el 1 de julio hasta el 27 de agosto de cada año. 
+Alrededor de unas 200.000 personas suben al Monte Fuji durante este periodo de tiempo.
+Como media, ¿alrededor de cuántas personas suben al Monte Fuji cada día?
+A 340
+B 710
+C 3400
+D 7100
+###
+
+4) Estás haciendo 100ml de aderezo para ensalda y esta es la receta: 60 ml de aceite, 30 ml de vinagre y 10 ml de soya. 
+¿Cuánto necesitas de aceite para hacer 150 ml de aderezo?
+A 60 ml
+B 90 ml
+C 120 ml 
+D 30 ml
+###
+
+5) ¿Cuál de las opciones indica la fórmula correcta para obtener el área de un círculo?
+A pi / r*5 
+B r/pi 
+C diámetro * pi 
+D pi*r^2
+###

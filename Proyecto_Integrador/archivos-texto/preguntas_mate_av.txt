@@ -1,0 +1,45 @@
+11) ¿De la siguiente secuencia cuál es el número que hace falta [2, 4, 16, __ , 65536] ?
+A 18 
+B 24 
+C 210 
+D 256
+###
+
+12) Normalmente, una pareja de pingüinos produce dos huevos cada año.
+Con pingüinos saltamontes, el primer huevo pesa aproximadamente 78 g.
+y el segundo huevo pesa 110 g.
+¿Cuál es la diferencia porcentual entre uno y otro?
+
+A 29%
+B 32%
+C 41%
+D 71%
+###
+
+13) 2.8 millones de casas en Suiza tienen televisión. 
+Estos es aproximadamente el 85.5% de la población.
+¿Cuántas casas hay en Suiza en total?
+
+A 2.4 millones 
+B 2.9 millones
+C 3.3 millones
+D 3.8 millones 
+###
+
+14) En un viaje en bicicleta, Helen recorrió 4 km en los primeros 10 minutos y luego 2 km en los siguientes 5 minutos.
+¿Cuál de las siguientes afirmaciones es correcta?
+
+A La velocidad promedio de Helen fue mayor en los primeros 10 minutos que en los siguientes 5 minutos 
+B La velocidad promedio de Helen fue la misma en los primeros 10 minutos y en los siguientes 5 minutos
+C La velocidad promedio de Helen fue menor en los primeros 10 minutos que en los siguientes 5 minutos
+D No es posible decir nada sobre la velocidad promedio de Helen a partir de la información dada
+###
+
+15) Helen recorrió 6 km hasta la casa de su tía. Su velocímetro mostró que fue a un promedio de 18 km/h.
+¿Cuánto tardó? 
+
+A Helen tardó 20 minutos en llegar a la casa de su tía 
+B Helen tardó 30 minutos en llegar a la casa de su tía
+C Helen tardó 40 minutos en llegar a la casa de su tía
+D No es posible saber cuánto tiempo tardó Helen en llegar a la casa de su tía 
+###
