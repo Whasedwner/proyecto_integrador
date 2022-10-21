@@ -1,3 +1,7 @@
+#Proyecto integrado pensamiento computacional
+#Iker Alejandro Huidobro Muñoz A01752435
+#Fryda Sofia Dolores Moran A01799451
+#Yael Jhaid Leonardo Medina A01749832
 import time #la utilizamos para el delay del programa
 import os #la utilizamos para trabajar con el cls en auto
 import datetime 
